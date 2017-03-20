@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		E22B9E951E7F540D00A929CC /* COMP 235 LAB 02 14 2017 Pointers */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "COMP 235 LAB 02 14 2017 Pointers"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E22B9E981E7F540D00A929CC /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		E22B9EB81E7F882900A929CC /* MyVector.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MyVector.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				E22B9E981E7F540D00A929CC /* main.cpp */,
+				E22B9EB81E7F882900A929CC /* MyVector.h */,
 			);
 			path = "COMP 235 LAB 02 14 2017 Pointers";
 			sourceTree = "<group>";
